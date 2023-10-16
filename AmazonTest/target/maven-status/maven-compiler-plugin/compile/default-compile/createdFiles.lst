@@ -1,0 +1,6 @@
+Pages\ProductPage.class
+Base\TestBase.class
+Pages\CartPage.class
+Pages\ProductListingsPage.class
+Pages\HomePage.class
+Utils\common.class
